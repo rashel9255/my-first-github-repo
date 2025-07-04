@@ -4,3 +4,13 @@ h2{
     padding: 20px;
     text-align: center;
 }
+section{
+    background-color: bisque;
+}
+h3{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    color: rgb(0, 113, 128);
+}
